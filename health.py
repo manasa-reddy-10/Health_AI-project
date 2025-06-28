@@ -203,9 +203,9 @@ gemini_disease_predictor = None
 
 # Using the provided string directly for demonstration.
 # In a real application, retrieve this from environment variables.
-DEMO_API_KEY = "AIzaSyA2V5ZNaovCbktBnUCDXlQ-gklmjQaDC20"
+DEMO_API_KEY = "AIzaSymjQaDC20"
 # Note: A project ID is usually a separate string. This is a placeholder; replace with your actual Project ID.
-DEMO_PROJECT_ID = "244519717988" 
+DEMO_PROJECT_ID = "2448" 
 
 try:
     gemini_ai_client = GeminiAIClient(DEMO_API_KEY, DEMO_PROJECT_ID)
